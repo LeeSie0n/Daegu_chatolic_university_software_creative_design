@@ -1,4 +1,4 @@
-# ReadMe
+# README.md
 
 To put it simply, this project is a secure QR code scanner and a solution to prevent Qshing.
 

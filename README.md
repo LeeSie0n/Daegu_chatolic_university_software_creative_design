@@ -12,7 +12,7 @@ For inquiries, please contact sieon0712@<hi>cu.ac.kr for a quick response. Thank
 
 ++
 
-The data set of this project consists of open data provided by [Kaggle](https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset), [KISA](https://www.bigdata-map.kr/search/88588963), [URLhaus](https://urlhaus.abuse.ch/api/#csv), and [PhishTank](https://www.phishtank.com/).
+The data set of this project consists of open data provided by [Kaggle](https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset), [KISA](https://www.bigdata-map.kr/search/90648937), [URLhaus](https://urlhaus.abuse.ch/api/#csv), and [PhishTank](https://www.phishtank.com/).
 
 Since the data set is huge, I will attach the [Google Drive](https://drive.google.com/file/d/1S_ve2J9yc9zbbz_mVmB-cVNPV5mkk-bL/view?usp=drive_link) below.
 

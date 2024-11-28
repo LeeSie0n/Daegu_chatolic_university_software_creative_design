@@ -17,3 +17,5 @@ The data set of this project consists of open data provided by Kaggle, KISA, URL
 Since the data set is huge, I will attach the Google Drive below.
 
 https://drive.google.com/file/d/1S_ve2J9yc9zbbz_mVmB-cVNPV5mkk-bL/view?usp=drive_link
+
+I think you can copy the link, access Google Drive, download the dataset, and use it. If you have any problems accessing the dataset, please reply to sieon0712@cu.ac.kr

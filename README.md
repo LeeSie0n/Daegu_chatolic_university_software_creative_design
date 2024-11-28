@@ -8,7 +8,9 @@ This team consists of Team Leader Lee Ji-won, Team Member Oh Na-hee, and Team Me
 
 For inquiries, please contact sieon0712@naver.com or sieon170719@gamil.com for a quick response. Thank you.
 
-++
+++   
 The data set of this project consists of open data provided by Kaggle, KISA, URLhaus, and PhishTank.
 
 Since the data set is huge, I will attach the Google Drive below.
+
+https://drive.google.com/file/d/1S_ve2J9yc9zbbz_mVmB-cVNPV5mkk-bL/view?usp=drive_link

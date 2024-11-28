@@ -6,7 +6,7 @@ Qshing is a combination of the words QR code and phishing, and refers to an atta
 
 This team consists of Team Leader Lee Ji-won, Team Member Oh Na-hee, and Team Member Lee Si-eon, who majored in computer engineering at Daegu Catholic University. The code and data set of this project are copyrighted to our team, the developers. If you would like to use them, please contact us first.
 
-For inquiries, please contact sieon0712@naver.com or sieon170719@gamil.com for a quick response. Thank you.
+For inquiries, please contact sieon0712@cu.ac.kr for a quick response. Thank you.
 
 ++
 

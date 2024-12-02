@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Safe URL Checker</title>
+  <link rel="icon" href="favicon-96x96.png" type="image/x-icon">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="main-container">
+    <div class="card">
+      <img
+        src="duc.jpg"
+        alt="DCU Pelican Mascot"
+        class="logo"
+      />
+      <h1>Safe URL Checker</h1>
+      <input
+        id="urlInput"
+        type="url"
+        placeholder="Enter URL to check"
+        class="input-field"
+      />
+      <button id="checkButton" class="button">Check URL</button>
+    </div>
+  </div>
+
+  <div id="modal" class="modal-overlay hidden">
+    <div class="modal">
+      <div id="modalHeader" class="modal-header"></div>
+      <button id="closeButton" class="close-button">Close</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

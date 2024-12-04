@@ -1,23 +1,32 @@
-# README.md
+# Secure QR Code Scanner : A Solution to Prevent Qshing
+Introduction
+This project is a secure QR code scanner designed to combat Qshing.
 
-To put it simply, this project is a secure QR code scanner and a solution to prevent Qshing.
+Qshing is a combination of "QR code" and "phishing." It refers to attacks that steal personal and financial information through malicious QR codes. Due to recent incidents of Qshing-related damage, we initiated this project to provide a preventive solution.
 
-Qshing is a combination of the words QR code and phishing, and refers to an attack that steals personal and financial information through QR codes. We recently saw damage related to Qshing and started this project to prevent such damage.
+# Team Information
+Our team consists of
+Team Leader : Lee Ji-won
+Team Member : Oh Na-hee
+Team Member : Lee Si-eon
 
-This team consists of Team Leader Lee Ji-won, Team Member Oh Na-hee, and Team Member Lee Si-eon, who majored in computer engineering at Daegu Catholic University. The code and data set of this project are copyrighted to our team, the developers. If you would like to use them, please contact us first.
+We are all computer engineering majors from Daegu Catholic University.
+The project's code and dataset are copyrighted by our team. If you wish to use them, please contact us in advance.
 
-The data set of this project consists of open data provided by [Kaggle](https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset), [KISA](https://www.bigdata-map.kr/search/90648937), [URLhaus](https://urlhaus.abuse.ch/api/#csv), and [PhishTank](https://www.phishtank.com/).
+# Dataset Information
+The dataset used in this project is sourced from
+[Kaggle](), [KISA](), [URLhaus](), [PhishTank]()
 
-Since the data set is huge, I will attach the [Google Drive](https://drive.google.com/file/d/1S_ve2J9yc9zbbz_mVmB-cVNPV5mkk-bL/view?usp=drive_link) below.
+Given the large size of the dataset, it is hosted on Google Drive. Please use the link below to access and download the dataset
+[Google Drive Link Here]()
 
-I think you can copy the link, access Google Drive, download the dataset, and use it.
+How to Understand Qshing
+For those unfamiliar with Qshing, we have developed a simple webpage. You can scan or click on the QR code provided, which will direct you to an Instagram post. This post contains detailed information about Qshing, its risks, and preventive measures.
+[Web Page Link Here]()
 
-For any inquiries, please contact sieon0712@cu.ac.kr and we will respond promptly. Thank you.
+# Contact Information
+If you have any questions or inquiries, please feel free to contact us at sieon0712@cu.ac.kr
+We will respond promptly.
 
-&nbsp;
-
-++
-
-For those of you who don't know what Qshing is, I've created a simple webpage. Scan or click on the QR code and it will take you to an Instagram post where you can check if it's malicious or legitimate. The post description contains a lot of information about Qshing, its risks, how to prevent it, etc.
-
-If you have any questions or need anything, please visit the [web site](https://antiqshingsolution.netlify.app/).
+# License
+This project and its associated resources are licensed under our team's copyright. Unauthorized use is prohibited.

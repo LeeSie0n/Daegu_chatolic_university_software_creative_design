@@ -1,4 +1,4 @@
-# Secure QR Code Scanner A Solution to Prevent Qshing
+# Anti Qshing Solution (QR Code Scanner)
 Introduction
 This project is a secure QR code scanner designed to combat Qshing.
 

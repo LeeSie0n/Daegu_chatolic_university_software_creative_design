@@ -14,15 +14,12 @@ We are all computer engineering majors from Daegu Catholic University.
 The project's code and dataset are copyrighted by our team. If you wish to use them, please contact us in advance.
 
 # Dataset Information
-The dataset used in this project is sourced from   
-[Kaggle](), [KISA](), [URLhaus](), [PhishTank]()
+The dataset used in this project is sourced from [Kaggle](), [KISA](), [URLhaus](), [PhishTank]().   
 
-Given the large size of the dataset, it is hosted on Google Drive. Please use the link below to access and download the dataset   
-[Google Drive Link Here]()
+Given the large size of the dataset, it is hosted on Google Drive. Please use the link below to access and download the dataset [Link Here]().
 
 How to Understand Qshing
-For those unfamiliar with Qshing, we have developed a simple webpage. You can scan or click on the QR code provided, which will direct you to an Instagram post. This post contains detailed information about Qshing, its risks, and preventive measures.
-[Web Page Link Here]()
+For those unfamiliar with Qshing, we have developed a simple webpage. You can scan or click on the QR code provided, which will direct you to an Instagram post. This post contains detailed information about Qshing, its risks, and preventive measures [Link Here]().
 
 # Contact Information
 If you have any questions or inquiries, please feel free to contact us at sieon0712@cu.ac.kr

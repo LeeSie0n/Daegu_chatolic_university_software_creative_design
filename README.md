@@ -27,4 +27,5 @@ If you have any questions or inquiries, please feel free to contact us at sieon0
 We will respond promptly.
 
 ## Copyright Notice
-This project and its associated resources are copyrighted by our team and Daegu Catholic University. Unauthorized use is prohibited.
+This project and its associated resources are copyrighted by our team and Daegu Catholic University. Unauthorized use is prohibited.   
+If you wish to use the code or dataset associated with this project, please contact us for approval.

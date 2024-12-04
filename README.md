@@ -10,14 +10,14 @@ Our team consists of
 [Team Member] Oh Na-hee   
 [Team Member] Lee Si-eon   
 
-We are all computer engineering majors from Daegu Catholic University.
+We are all computer engineering majors from Daegu Catholic University.   
 The project's code and dataset are copyrighted by our team. If you wish to use them, please contact us in advance.
 
 # Dataset Information
-The dataset used in this project is sourced from
+The dataset used in this project is sourced from   
 [Kaggle](), [KISA](), [URLhaus](), [PhishTank]()
 
-Given the large size of the dataset, it is hosted on Google Drive. Please use the link below to access and download the dataset
+Given the large size of the dataset, it is hosted on Google Drive. Please use the link below to access and download the dataset   
 [Google Drive Link Here]()
 
 How to Understand Qshing

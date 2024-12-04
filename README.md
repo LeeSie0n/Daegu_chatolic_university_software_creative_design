@@ -6,13 +6,13 @@ Qshing is a combination of the words QR code and phishing, and refers to an atta
 
 This team consists of Team Leader Lee Ji-won, Team Member Oh Na-hee, and Team Member Lee Si-eon, who majored in computer engineering at Daegu Catholic University. The code and data set of this project are copyrighted to our team, the developers. If you would like to use them, please contact us first.
 
-For inquiries, please contact sieon0712@<hi>cu.ac.kr for a quick response. Thank you.
-
 The data set of this project consists of open data provided by [Kaggle](https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset), [KISA](https://www.bigdata-map.kr/search/90648937), [URLhaus](https://urlhaus.abuse.ch/api/#csv), and [PhishTank](https://www.phishtank.com/).
 
 Since the data set is huge, I will attach the [Google Drive](https://drive.google.com/file/d/1S_ve2J9yc9zbbz_mVmB-cVNPV5mkk-bL/view?usp=drive_link) below.
 
-I think you can copy the link, access Google Drive, download the dataset, and use it. If you have any problems accessing the dataset, please reply to sieon0712@<hi>cu.ac.kr
+I think you can copy the link, access Google Drive, download the dataset, and use it.
+
+For any inquiries, please contact sieon0712@cu.ac.kr and we will respond promptly. Thank you.
 
 &nbsp;
 
@@ -20,4 +20,4 @@ I think you can copy the link, access Google Drive, download the dataset, and us
 
 For those of you who don't know what Qshing is, I've created a simple webpage. Scan or click on the QR code and it will take you to an Instagram post where you can check if it's malicious or legitimate. The post description contains a lot of information about Qshing, its risks, how to prevent it, etc.
 
-If you have any questions or need anything, please visit the site below.
+If you have any questions or need anything, please visit the [site](antiqshingsolution.netlify.app).

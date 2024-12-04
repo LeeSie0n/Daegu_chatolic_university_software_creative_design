@@ -7,9 +7,9 @@ Qshing is a combination of "QR code" and "phishing." It refers to attacks that s
 ## Team Information
 Our team consists of
 
-[Team Leader] Lee Ji-won   
-[Team Member] Lee Si-eon    
-[Team Member] Oh Na-hee   
+[Leader] Lee Ji-won   
+[Member] Lee Si-eon    
+[Member] Oh Na-hee   
 
 We are all computer engineering majors from Daegu Catholic University.   
 The project's code and dataset are copyrighted by our team. If you wish to use them, please contact us in advance.
@@ -27,4 +27,4 @@ If you have any questions or inquiries, please feel free to contact us at sieon0
 We will respond promptly.
 
 ## Copyright Notice
-This project and its associated resources are licensed under our team's copyright. Unauthorized use is prohibited.
+This project and its associated resources are copyrighted by our team and Daegu Catholic University. Unauthorized use is prohibited.

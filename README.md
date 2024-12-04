@@ -26,5 +26,5 @@ For those unfamiliar with Qshing, we have developed a simple webpage. You can sc
 If you have any questions or inquiries, please feel free to contact us at sieon0712<dummy>@cu.ac.kr   
 We will respond promptly.
 
-# License
+# Copyright Notice
 This project and its associated resources are licensed under our team's copyright. Unauthorized use is prohibited.

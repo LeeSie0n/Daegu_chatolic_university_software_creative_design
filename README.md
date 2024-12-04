@@ -23,7 +23,7 @@ How to Understand Qshing
 For those unfamiliar with Qshing, we have developed a simple webpage. You can scan or click on the QR code provided, which will direct you to an Instagram post. This post contains detailed information about Qshing, its risks, and preventive measures [Link Here](https://antiqshingsolution.netlify.app/).
 
 # Contact Information
-If you have any questions or inquiries, please feel free to contact us at sieon0712<dummy>@cu.ac.kr
+If you have any questions or inquiries, please feel free to contact us at sieon0712<dummy>@cu.ac.kr   
 We will respond promptly.
 
 # License

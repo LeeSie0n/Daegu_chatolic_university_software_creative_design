@@ -5,7 +5,8 @@ This project is a secure QR code scanner designed to combat Qshing.
 Qshing is a combination of "QR code" and "phishing." It refers to attacks that steal personal and financial information through malicious QR codes. Due to recent incidents of Qshing-related damage, we initiated this project to provide a preventive solution.
 
 # Team Information
-Our team consists of   
+Our team consists of
+
 [Team Leader] Lee Ji-won   
 [Team Member] Oh Na-hee   
 [Team Member] Lee Si-eon   

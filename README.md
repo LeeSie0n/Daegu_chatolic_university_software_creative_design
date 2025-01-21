@@ -20,7 +20,7 @@ The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com
 Given the large size of the dataset, it is hosted on Google Drive. Please use the link below to access and download the dataset [Link Here](https://drive.google.com/file/d/1S_ve2J9yc9zbbz_mVmB-cVNPV5mkk-bL/view?usp=drive_link).
 
 How to Understand Qshing
-For those unfamiliar with Qshing, we have developed a simple webpage. You can scan or click on the QR code provided, which will direct you to an Instagram post. This post contains detailed information about Qshing, its risks, and preventive measures [Link Here](https://antiqshingsolution.netlify.app/).
+For those unfamiliar with Qshing, we have developed a simple webpage. You can scan or click on the QR code provided, which will direct you to an Instagram post. This post contains detailed information about Qshing, its risks, and preventive measures [Link Here]([https://qshing-education-webpage.netlify.app/)).
 
 ## Contact Information
 If you have any questions or inquiries, please feel free to contact us at sieon0712<dummy>@cu.ac.kr   

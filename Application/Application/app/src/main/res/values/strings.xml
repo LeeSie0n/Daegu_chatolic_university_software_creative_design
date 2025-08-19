@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">안전한 QR code 스캐너</string>
+    <string name="splash_description">Trust QR code Scanner</string>
+    <string name="ic_qr_code_description">QR 코드 아이콘</string>
+    <string name="ic_shield_description">보안 아이콘</string>
+
+    <string name="qshing_title">큐싱(Qshing)이란?</string>
+    <string name="qshing_description">QR code와 피싱(Phishing)의 합성어로\n악성코드나 유해 웹사이트에 연결되는 QR code를\n스캔하면 스마트폰에 악성 앱이 설치되어\n개인･금융정보를 탈취하거나\n소액결제를 유도하는 행위를 말합니다.</string>
+    <string name="start_button">다음으로</string>
+
+    <string name="additional_info_title">큐싱 예방법?</string>
+    <string name="qshing_description1">일반적인 예방법은 QR code를 찍기 전\nurl을 확인하는 것이지만\n위험한 QR code는\n육안으로 구별하기 어렵습니다.\n이 앱은 스캔한 URL을 자동 분석하여\n위험 여부를 판별해줍니다.\n안전한 QR code 사용을 위해\n지금 메인 페이지로 이동하세요!</string>
+    <string name="button_main">메인으로</string>
+
+    <string name="enter_url">URL 붙여넣기</string>
+
+</resources>
